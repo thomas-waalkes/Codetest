@@ -1,0 +1,4 @@
+1,billy,4-11-90,single,40000,111 avenue ave
+2,jimmy,1-2-65,married,80000,54 grover street
+3,jill,11-11-11,married,70000, 8451 isle circle
+9,billy, 12-12-12,divorced, 90,1234 seasame street
